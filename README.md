@@ -5,18 +5,17 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://haripriyaks22.github.io/portfolio/](https://haripriyaks22.github.io/portfolio/)
+- 👨‍💻 my protfolio available at [https://haripriyaks22.github.io/portfolio/](https://haripriyaks22.github.io/portfolio/)
 
 - 💬 Ask me about **Python,Flutter,Angular,Node,Sql**
 
 - 📫 How to reach me **haripriyaks2522@gmail.com**
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="flutter" width="400" />
-</p>
+
+
 
 
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/haripriya-k-s-440947201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/haripriya-k-s-440947201" height="30" width="40" /></a>
+<a href="https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
