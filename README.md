@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Haripriya K S</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer,specializing in flutter and web development </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="flutter" width="400" />
