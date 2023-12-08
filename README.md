@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)
+![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)
 <h1 align="center">Hi 👋, I'm Haripriya K S</h1>
 <h3 align="center">A passionate software developer,specializing in flutter and web development</h3>
 
