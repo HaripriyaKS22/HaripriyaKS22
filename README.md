@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Haripriya K S</h1>
 <h3 align="center">A passionate software developer,specializing in flutter and web development</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m  a **Flutter Developer**
 
 - 👨‍💻 my protfolio available at [https://haripriyaks22.github.io/portfolio/](https://haripriyaks22.github.io/portfolio/)
 
