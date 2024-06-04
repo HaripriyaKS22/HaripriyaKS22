@@ -5,7 +5,7 @@
 
 - 🌱 I’m  a **Flutter Developer**
 
-- 👨‍💻 my protfolio available at ((https://haripriyaks22.github.io/portfolio2/wpriverthemes.com/landing/gridx-html/index.html))
+- 👨‍💻 my protfolio available at ([https://haripriyaks22.github.io/portfolio2]https://haripriyaks22.github.io/portfolio2/wpriverthemes.com/landing/gridx-html/index.html)
 
 - 💬 Ask me about **Python,Flutter,Angular,Node,Sql**
 
