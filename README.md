@@ -7,7 +7,7 @@
 
 - 👨‍💻 my protfolio available at https://haripriyaks22.github.io/portfolio2/wpriverthemes.com/landing/gridx-html/index.html
 
-- 💬 Ask me about **,Flutter,Python,Angular,Node,Sql**
+- 💬 Ask me about **,Flutter,Firebase,API,Python,Angular,Node,Sql**
 
 - 📫 How to reach me **haripriyaks2522@gmail.com**
 
